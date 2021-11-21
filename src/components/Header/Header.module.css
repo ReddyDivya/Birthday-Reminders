@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    margin: 1rem 0;
+    padding: 0 8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    line-height: 4.2rem;
+    font-size: 3rem;
+}
+section{
+    margin: 1rem 9rem;
+}
